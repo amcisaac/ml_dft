@@ -1,0 +1,2 @@
+moving/organizing code from ~/Dropbox\ (MIT)/6.862/project
+haven't tested reorganized code
